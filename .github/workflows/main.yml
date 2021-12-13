@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: peanut974/pat-app:latest
+          tags: peanut974/pat-app:1.0
